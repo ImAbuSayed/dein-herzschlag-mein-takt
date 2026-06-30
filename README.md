@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dein Herzschlag mein Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
+| **Get License** | [Secure Licensing Rights for Dein Herzschlag mein Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig ein ins Coupé, Scheiben schwarz, wir fahr'n durch die Nacht.. yeah..
+> Dein Blick trifft mich tief, hat in mir ein Feuer entfacht
+> Wir cruisen durch die City-Lights, dein Herzschlag ist mein Takt
+> Nur du und ich im AMG, scheiß drauf, was die Welt uns sagt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
