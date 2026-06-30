@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dein Herzschlag mein Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
+| **Get License** | [Secure Licensing Rights for Dein Herzschlag mein Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herzschlag-mein-takt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4684)
 
 ---
 
