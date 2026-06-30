@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dein Herzschlag mein Takt
+
+This log tracks the cryptographic history and versioning for the song **Dein Herzschlag mein Takt** (dein-herzschlag-mein-takt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:26:24.631900 | `v1` | `e1c880e98d471b2f11016a4cd310ae5130de08e4470d42d96a37fffd93d0ce8d` | `36d772c78d9c768efcc9b86495dec765381a1cf3b345ae36dbbf7c0d4ac439e4` | `2026-06-30_dein-herzschlag-mein-takt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
